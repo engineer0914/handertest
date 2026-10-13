@@ -1,8 +1,23 @@
-# RB5-850 Eye-in-Hand
+![Result 1](./result.png)
+![Result 2](./result2.png)
+
+## result pic
+
+## how to run
 
 ```
 python main.py --robot-ip 192.168.0.100 --tcp-cam "TCP T_CAM.JSON" --cam-checkerboard CAM_T_CHECKERBOARD.JSON --json-unit m --dh-end-is-tcp
 ```
+
+
+```
+python3 get_realworld_checkerboard_matrix.py
+```
+
+
+# RB5-850 Eye-in-Hand
+
+
 
 ## Transform convention
 
